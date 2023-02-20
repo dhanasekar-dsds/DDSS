@@ -1,0 +1,20 @@
+.ProductBox{
+    background-color: #ffffff;
+    margin: 2%;
+    
+    height: 360px;
+    width: 250px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    -webkit-box-shadow: 2px 2px 2px 0px rgba(107, 107, 107, 0.22); 
+box-shadow: 2px 2px 2px 0px rgba(107, 107, 107, 0.22);
+border-radius: 3%;
+}
+.ProductBox:hover{
+
+    border-left: 1px solid #ffd942;
+    border-top: 1px solid #ffd942;    
+    
+    -webkit-box-shadow: 4px 4px 3px 0px rgba(0,0,0,0.22); 
+box-shadow: 4px 4px 3px 0px rgba(0,0,0,0.22);
+}

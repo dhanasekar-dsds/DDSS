@@ -1,0 +1,53 @@
+.Product{
+    align-items: center;
+    /* background-color: aquamarine; */
+    margin: 2%;
+    height: 220px;
+    width: 96%;
+    justify-content: center;
+    
+}
+img{
+    height: 220px;
+    width: 100%;
+}
+
+.Pname{
+    font-size: 70%;
+    padding-bottom: 5%;
+
+    
+}
+.des{
+
+    display: flex;
+    margin-top: 0px;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(10, 50, 50); */
+    font-weight: bolder;
+    color: #313131;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.PP{
+    margin-top: 2%;
+    color: #f5c935;
+    font-size: 18px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-weight: bolder;
+
+
+}
+.PP:hover{
+    color: #ff0000;
+}
+
+.det{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 10px;
+    margin-top: 2px;
+    color: #313131;
+    margin-bottom: 10px;
+}

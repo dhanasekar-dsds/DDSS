@@ -1,0 +1,28 @@
+.Filter1{
+    /* background-color: aquamarine; */
+    color: black;
+    text-align: center;
+    justify-content: left;
+    margin-left: 10%;
+}
+.nav{
+   font-size: 17px;
+    margin: 10%;
+    justify-content: left;
+    display: grid;
+    gap: -100px;
+    color: rgb(52, 52, 52);
+}
+a{
+    color: rgb(45, 45, 45);
+    padding: 10px;
+    border-radius: 10%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    text-decoration: none;
+    border: 0px ;
+}
+
+a:hover{
+    background-color: #f8cb1a;
+    color: black;
+}

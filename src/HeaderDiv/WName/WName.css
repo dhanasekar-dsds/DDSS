@@ -1,0 +1,27 @@
+.Name{
+    background-color: bisque;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 200PX;
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    background-color: #f8cb1a;
+    border: 2px ;
+    font-size: 45px;
+    font-weight: bolder;
+    word-spacing: 0%;
+    
+    
+}
+.store{
+    margin-top: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.ds{
+   color: rgb(0, 0, 0);
+   font-weight: 900;
+}
+

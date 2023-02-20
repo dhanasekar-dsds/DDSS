@@ -1,0 +1,38 @@
+.Shead{
+    /* background-color: aqua; */
+    height: 70%;
+    width: 40%;
+    margin-left: 13%;
+}
+
+#search{
+    height: 40px;
+    margin-top: 0px;
+    width: 100%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 15px;
+    border-radius: 30px 30px 30px 30px;
+    border: 0px solid;
+    text-align: center;
+
+}
+.tool{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 100;
+    padding-top: 10px;
+    color: black;
+    word-spacing: 15px;
+}
+/* .Scol{
+     background-color: blue; 
+} */
+.ttext{
+    font-size: 60%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgb(67, 67, 67);
+    margin: 3px;
+    
+}

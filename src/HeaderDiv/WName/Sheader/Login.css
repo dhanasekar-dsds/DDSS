@@ -1,0 +1,32 @@
+.Login{
+    /* background-color: aqua ; */
+    width: 15%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    margin-top: 0%;
+    
+}
+
+#up,#in{
+    background-color: rgb(255, 255, 255);
+    padding: 6%;    
+    margin: 10% 1% 1% 1%;
+    border-radius: 10%;
+    border: 0px solid; 
+    width: 45%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 60%;
+}
+#up:hover{
+    background-color: #f8cb1a;
+    border: 2px solid white;
+    font-weight: bolder;
+}
+
+#in:hover{
+    background-color: #f8cb1a;
+    border: 2px solid white;
+    font-weight: bolder;
+}
